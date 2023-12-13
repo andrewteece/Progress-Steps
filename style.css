@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+:root {
+  --line-border-fill: hsl(204, 70%, 53%);
+  --line-border-empty: hsl(0, 0%, 22%);
+
+  * {
+    box-sizing: border-box;
+  }
+}
